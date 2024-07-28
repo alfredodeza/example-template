@@ -1,5 +1,5 @@
 # This utils module should be imported and used in main.py
-# Don't change any code in this module.
+# Don't change any code in this module because it is not part of the assignment
 
 def str_to_bool(val):
     """
