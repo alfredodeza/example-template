@@ -1,6 +1,6 @@
-# Week 2 assignment
+# Week 1 assignment
 
-_Python Bootcamp for Data week 2 assignment_
+_Python Bootcamp for Data week 1 assignment_
 
 This week, you learned how to create functions, classes, and methods. These are the basis of almost any program you might create with Python. Functions and classes are useful for organizing code, increasing maintainability and code reuse. You'll use that knowledge to complete the assignment in this repository.
 
