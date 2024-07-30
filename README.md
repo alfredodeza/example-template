@@ -17,7 +17,7 @@ This repository uses automated grading (or testing). When starting, all automate
 
 > 💡 As part of the GitHub Classroom setup, you might get an automated Pull Request created for direct feedback by your Professor or by the TAs.
 
-**Verify your work** by running `pytest -v` in the root of your repository. If you are using Codespaces, `pytest` will already be installed for you and available for you to run tests that are used for auto-grading. 
+**Verify your work** by running `pytest -v` in the root of your repository. If you are using Codespaces, `pytest` will already be installed for you and available for you to run tests that are used for auto-grading.
 
 ## Resources
 
@@ -43,9 +43,6 @@ Use the linked resources in this section to review and reference any of the prev
 
 ### Course video and links
 
-> 🎥 Click the image below to access week 2 of the full course on O'Reilly
-
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50146VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/python-bootcamp-for/50146VIDEOPAIML/50146VIDEOPAIML-c1_s2/ "Introduction to Python")
 
 This assignent is for week 2 (out of 4) of the Python Bootcamp for Data. The whole course has four weeks:
 
